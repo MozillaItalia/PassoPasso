@@ -1,12 +1,3 @@
 # Come segnalare correttamente
-
-## Se hai trovato un errore
-
-* Specifica il link del task che ha l'errore
-* Evidenzia l'errore e motivalo
-* Grazie!
-
-## Idea per un nuovo task
-
-* Dai un titolo al ticket per il nuovo task
-* Motiva e fornisci anche il testo
+Segui le istruzioni che troverai quando apri un nuovo ticket.  
+Ricordati non ti spaventare e non ti fare problemi, siamo disponibili a qualunque idee che aiuti a migliorare il progetto.
