@@ -5,3 +5,4 @@ La lista dei termini da usare nel titolo sono:
 * [Attività] Riguardo la creazione di uno o piŭ task
 * [Revisione] Riguardo la revisione di quel task
 * [Obsoleto] Archiviare il task
+* [Sito] Riguardo il sito
