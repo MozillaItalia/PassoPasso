@@ -1,3 +1,7 @@
-# Come segnalare correttamente
-Segui le istruzioni che troverai quando apri un nuovo ticket.  
-Ricordati non ti spaventare e non ti fare problemi, siamo disponibili a qualunque idee che aiuti a migliorare il progetto.
+La lista dei termini da usare nel titolo sono:
+
+* [Repo] Riguardo l'utilizzo di questo repo
+* [Recognition] Riguardo come migliorare questo aspetto
+* [Attività] Riguardo la creazione di uno o piŭ task
+* [Revisione] Riguardo la revisione di quel task
+* [Obsoleto] Archiviare il task
